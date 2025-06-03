@@ -1,4 +1,4 @@
-# Portfolio React Frontend
+# portfolio-react-frontend
 
 This repository contains the source code for my personal portfolio website frontend, built using React.js and styled with Tailwind CSS.
 
