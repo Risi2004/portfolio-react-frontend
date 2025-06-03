@@ -14,7 +14,7 @@ function Contact() {
     setLoading(true);
 
     try {
-    const response = await fetch('https://portfolio-react-backend-b0pu.onrender.com/api/contact', {
+    const response = await fetch('https://portfolio-react-backend-4vrl.onrender.com/api/contact', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify(formData),
